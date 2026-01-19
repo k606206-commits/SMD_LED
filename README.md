@@ -581,6 +581,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 | 색상이 어두움 | PWM 주기 문제 | Period 값 조정 |
 | 특정 색상만 동작 | GPIO 설정 오류 | AF 설정 확인 |
 
+## 색상변환 이미
+지
+ㅣREDㅣGREENㅣBLUEㅣ
+ㅣ<img src="https://github.com/user-attachments/assets/7c95cccd-a8ca-47a6-a7f2-9ee3d806ad45" width="200">ㅣ<img src="https://github.com/user-attachments/assets/d108974b-81be-4f46-af53-3ab94a7a6ed3" width="200">ㅣ<img src="https://github.com/user-attachments/assets/e72ff35b-0464-49b8-9437-d875342988a7" width="200">
+
+
+C:\Users\User\Downloads\KakaoTalk_20260119_114840984 (2).gif
+
 ## 📚 참고 자료
 
 - [STM32F103 Reference Manual](https://www.st.com/resource/en/reference_manual/rm0008-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
